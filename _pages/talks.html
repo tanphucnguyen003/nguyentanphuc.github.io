@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Invited Talks
+<h2>Invited Talks</h2>
 
 <ul class="talk-list">
 {% for post in site.talks reversed %}
@@ -13,10 +13,14 @@ author_profile: true
 {% endfor %}
 </ul>
 
-## Organizers
+{% if site.organizers.size > 0 %}
+
+<h2>Organizers</h2>
 
 <ul class="talk-list">
 {% for post in site.organizers reversed %}
     {% include archive-single-talk.html %}
 {% endfor %}
 </ul>
+
+{% endif %}
