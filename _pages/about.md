@@ -14,6 +14,7 @@ Welcome! I am  <b style="color: darkred;">Tan-Phuc Nguyen</b>, a PhD student at 
 - Partial Differential Equations (PDEs)
 - Control Theory
 - Numerical Analysis
+- Maching Learning for Scientific Computing
 
 ## Contact
 
