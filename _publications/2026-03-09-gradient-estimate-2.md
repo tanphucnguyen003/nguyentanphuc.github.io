@@ -4,9 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-03-09-gradient-estimate-2
 date: 2026-03-09
-venue: 'Journal 2'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://doi.org/10.1002/mma.70661'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
